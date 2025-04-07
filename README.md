@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/jvjoaoo/jvjoaoo/raw/output/ocean-dark.gif)
+![snake gif](https://github.com/jvjoaoo/jvjoaoo/raw/output/github-snake-dark.svg)
 
 ###
